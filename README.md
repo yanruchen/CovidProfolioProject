@@ -1,6 +1,6 @@
 # CovidProfolioProject-SQL
 
-In this project, I download data of confirmed global Covid 19 death and vaccine data.
+In this project, I download data of confirmed global [Covid 19 death and vaccine data](https://ourworldindata.org/covid-deaths).
 
 The goal for this project is to study geographical distribution and trend.
 
